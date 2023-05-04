@@ -1,5 +1,6 @@
 # InSe
 
+---
 
 DP model for single-layer InSe system.
 
@@ -10,3 +11,9 @@ DP model for single-layer InSe system.
 - `nvnmd-train`, input script to train DP model for fpga (nvnmd)
 
 - `dp-train`, input script to train a common DP model for cpu (traditional dpmd)
+
+---
+
+please cite following article
+
+> J. Han, Q. Zeng, K. Chen, X. Yu, J. Dai, Lattice thermal conductivity of monolayer InSe calculated by machine learning potential, under review
