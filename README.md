@@ -14,6 +14,6 @@ DP model for single-layer InSe system.
 
 ---
 
-please cite following article
+please cite following article (https://doi.org/10.3390/nano13091576)
 
-> J. Han, Q. Zeng, K. Chen, X. Yu, J. Dai, Lattice thermal conductivity of monolayer InSe calculated by machine learning potential, under review
+> J. Han, Q. Zeng, K. Chen, X. Yu, J. Dai, Lattice thermal conductivity of monolayer InSe calculated by machine learning potential, Nanomaterials 2023, 13, 1576.
